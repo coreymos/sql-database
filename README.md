@@ -13,6 +13,7 @@ The 'Song' table contains the following values:
 * name varchar(50) 
 * genre varchar(50) 
 * length smallint UN
+* artist varchar(50)
 
 # Development Environment
 
