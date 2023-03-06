@@ -2,7 +2,7 @@
 
 This program is a demonstration of my intro to SQL and connecting it to a python program. SQL relational databases are very commonly used by companies to store data. So it is important that I go through this hands-on process of using SQL and python together so that I am familiar with how it works.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/0D8-DB8M42g)
 
 # Relational Database
 

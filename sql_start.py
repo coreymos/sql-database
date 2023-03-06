@@ -54,7 +54,7 @@ def describe(my_cursor):
     for x in my_cursor:
         print(x)
 
-def query(my_cursor, column, value):
+def query(my_cursor):
 
     # Using the SELECT command, we can select all columns from the 'Song' table
     # and then display all of the values from the table
@@ -86,6 +86,7 @@ def main():
     my_cursor = db.cursor()
     describe(my_cursor)
     alter(my_cursor)
+    query(my_cursor)
 
 if __name__ == "__main__":
     main()
